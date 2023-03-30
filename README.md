@@ -9,10 +9,9 @@
 
 O projeto consiste em desenvolver uma aplicação mobile, utilizando as tecnologias Dart, Flutter e Firebase. É uma aplicação acadêmica e open source onde será recriado alguns dos recursos do WhatsApp.
 
-## **🔖 Layout**
+## **🔖 Status**
 
-Você pode ter acesso ao layout do projeto usando esse [LINK](<https://www.figma.com>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
+EM CONSTRUÇÃO
 
 ## **✨ Características**
 
